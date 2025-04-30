@@ -1,0 +1,31 @@
+body{
+	background-color: lightgray;
+}
+#index{
+	background-color: white;
+	margin: 0 auto;
+	width: 1000px;
+}
+#index img{
+	width: 1000px;
+}
+#main{
+	border: 1px solid black;
+	width: 500px;
+	margin: 0 auto;
+	border-radius:10px ;
+}
+#main h2{
+	padding: 10px;
+	margin: 10px;
+	border-bottom: 1px solid black;
+}
+#main ul{
+	padding: 10px;
+	list-style: none;
+}
+#footer{
+	margin: 10px;
+	border-top: 1px solid black;
+	text-align: center;
+}
